@@ -1,6 +1,6 @@
 # 🇲🇾 Malaysia Labour Force Analysis (2010–2025)
 
-**Prepared by:** Hanis Ilya binti Mohamad Shaharizad  
+**Prepared by:** Hanis Ilya 
 **Data Source:** [Department of Statistics Malaysia (DOSM)](https://www.dosm.gov.my)  
 **Tools Used:** Python (Google Colab), pandas, matplotlib, seaborn  
 **Dataset:** Monthly Principal Labour Force Statistics (2010–2025)
