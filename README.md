@@ -48,11 +48,10 @@ The analysis aims to uncover how the **COVID-19 pandemic** and subsequent econom
 
 | Visualization | Description |
 |:--------------|:-------------|
-| (Visualization/Figure1.png) | Unemployment Rate (2010–2025) |
-| **Figure 2** | Employment vs Unemployment Trend |
-| **Figure 3** | Correlation between Labour Force Indicators |
+| ![Figure 1](visualizations/Figure1.png) | Unemployment Rate (2010–2025) |
+| ![Figure 2](visualizations/Figure2.png) | Employment vs Unemployment Trend |
+| ![Figure 3](visualizations/Figure3.png) | Correlation between Labour Force Indicators |
 
-*(Insert plots or screenshots in the `/visualizations` folder for display)*
 
 ---
 
@@ -85,7 +84,5 @@ Between **2010 and 2025**, Malaysia’s labour market demonstrated **steady reco
 The **COVID-19 pandemic** caused short-term disruptions, but employment rebounded as the economy diversified and digital transformation accelerated.  
 By **2025**, the unemployment rate had normalized, showing **effective economic policy**, **worker resilience**, and **sustainable growth** in labour participation.
 
----
 
-## 📁 Project Structure
 
