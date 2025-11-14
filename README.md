@@ -48,9 +48,9 @@ The analysis aims to uncover how the **COVID-19 pandemic** and subsequent econom
 
 | Visualization | Description |
 |:--------------|:-------------|
-| ![Figure 1](visualizations/Figure1.png) | Unemployment Rate (2010–2025) |
-| ![Figure 2](visualizations/Figure2.png) | Employment vs Unemployment Trend |
-| ![Figure 3](visualizations/Figure3.png) | Correlation between Labour Force Indicators |
+| ![Figure 1](Visualizations/Figure1.png) | Unemployment Rate (2010–2025) |
+| ![Figure 2](Visualizations/Figure2.png) | Employment vs Unemployment Trend |
+| ![Figure 3](Visualizations/Figure3.png) | Correlation between Labour Force Indicators |
 
 
 ---
